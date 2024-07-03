@@ -45,13 +45,13 @@ li {
 }
 
 a:link {
-  color: green;
+  color: blue;
   background-color: transparent;
   text-decoration: none;
 }
 
 a:visited {
-  color: pink;
+  color: green;
   background-color: transparent;
   text-decoration: none;
 }
