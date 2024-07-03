@@ -40,6 +40,6 @@ li {
 
 /* Add a color to the active/current link */
 #navigation-container a.active {
-  background-color: #04AA6D;
+  background-color: #3333cc;
   color: white;
 }
