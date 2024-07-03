@@ -46,8 +46,8 @@
 
 .logo {
     display: block;
-    width: 20vw; // if it's too big or small you can re-adjust to your prefered size.
-    height: 10vh;
+    width: 100px; // if it's too big or small you can re-adjust to your prefered size.
+    height: 50px;
 }
 
     margin-top: 15px;    /* if you want it vertically middle of the navbar. */
