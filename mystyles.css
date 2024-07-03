@@ -31,3 +31,15 @@ li {
     flex-direction: row;
     align-items: center;
 }
+
+/* Change the color of links on hover */
+#navigation-container a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Add a color to the active/current link */
+#navigation-container a.active {
+  background-color: #04AA6D;
+  color: white;
+}
